@@ -1,1 +1,6 @@
 I'm coding something...
+// Freepascal
+Begin
+writeln("I'm writing code here!");
+readln
+End.
